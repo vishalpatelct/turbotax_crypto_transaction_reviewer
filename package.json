@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node scripts/turbotax-review-helper.js"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

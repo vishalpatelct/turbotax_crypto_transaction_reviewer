@@ -1,0 +1,22 @@
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment and local config
+.env
+.env.*
+
+# Playwright/browser artifacts
+playwright-report/
+test-results/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Agent instructions, context, & logging
+.instructions.md
+.screenshots/
+.artifacts/
